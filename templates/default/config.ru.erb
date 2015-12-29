@@ -1,0 +1,4 @@
+require 'redis'
+$redis = Redis.new(host: "<%= @redis_host %>")
+require './web_counter.rb'
+run Sinatra::Application

@@ -1,0 +1,11 @@
+name 'counter_app'
+maintainer 'Brandon Raabe'
+maintainer_email 'you@example.com'
+license 'mit'
+description 'Installs/Configures web_counter_app'
+long_description 'Installs/Configures web_counter_app'
+version '0.1.0'
+
+depends 'build-essential'
+depends 'application_ruby', '~> 4.0.1'
+depends 'application_git', '~> 1.0.0'
