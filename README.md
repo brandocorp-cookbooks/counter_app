@@ -1,4 +1,3 @@
-# web_counter_app
+# counter_app
 
-TODO: Enter the cookbook description here.
-
+The Counter Application

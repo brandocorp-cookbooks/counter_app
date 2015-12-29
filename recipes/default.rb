@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: web_counter_app
+# Cookbook Name:: counter_app
 # Recipe:: default
 #
 # The MIT License (MIT)
